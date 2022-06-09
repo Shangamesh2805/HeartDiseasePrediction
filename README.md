@@ -12,6 +12,8 @@ We have used :
 7. **XGboost**
 these model to comapre their results. And on average we have got the result of more than 85%. 
 
+Dataset : https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
 And we have also deployed the Machine Learning model in Real-Time Website using Flask
 
 Machine Learning - Shrijayan R A
