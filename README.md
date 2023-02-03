@@ -24,12 +24,16 @@ In this model we have predicted the risk of heart disease based on real dataset 
 **Model's Result Prediction Percentage:**
 **SVM:**
     Support Vector Machine
+    
         ~Training Set Prediction : 0.6694214876033058
+        
         ~Testing Set Prediction : 0.5737704918032787
     
 **Naive Bayes:**
     Works based on Naive Bayes algorithm
+    
         ~Training Set Prediction :0.8677685950413223
+        
         ~Testing Set Prediction :  0.7868852459016393
     
 these model to comapre their results. And on average we have got the result of more than 85%.
