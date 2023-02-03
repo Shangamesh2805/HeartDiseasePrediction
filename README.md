@@ -3,10 +3,12 @@
 In this model we have predicted the risk of heart disease based on real dataset that we got from a medical university chennai.
 
 **DATASET**
+
   The dataset we used contians more than 150 patient records and their daily routine data.
   As a result it helps  our model to train with realtime data.Our data set contains many features like age,Dietary hahbit,Alcohol consumer or not etc...
   
  **Data Preprocessing:**
+ 
     We have preprocessed our dataset using Sk-learn.
     ***sk-learn:***
           The sklearn.preprocessing package provides several common utility functions and transformer classes to change raw feature vectors into a representation that       is more suitable for the downstream estimators. In general, learning algorithms benefit from standardization of the data set.
