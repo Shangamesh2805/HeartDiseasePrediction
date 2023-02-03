@@ -1,6 +1,6 @@
 # Heart Disease Prediction
 
-In this model we have predicted the risk of heart disease based on real dataset that we got from a medical university chennai.
+In this model we have predicted the risk of heart disease based on realtime dataset that we have got from a medical university chennai.
 
 **DATASET**
 
