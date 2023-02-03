@@ -11,12 +11,11 @@ In this model we have predicted the risk of heart disease based on realtime data
   **Dataset:** https://archive.ics.uci.edu/ml/datasets/Heart+Disease
   
  **Data Preprocessing**
- 
-    We have preprocessed our dataset using Sk-learn.
+ We have preprocessed our dataset using Sk-learn.
     
    **sk-learn**
    
-          The sklearn.preprocessing package provides several common utility functions and transformer classes to change raw feature vectors into a representation that       is more suitable for the downstream estimators. In general, learning algorithms benefit from standardization of the data set.
+   The sklearn.preprocessing package provides several common utility functions and transformer classes to change raw feature vectors into a representation that       is more suitable for the downstream estimators. In general, learning algorithms benefit from standardization of the data set.
           
 **Models Used:**          
           
