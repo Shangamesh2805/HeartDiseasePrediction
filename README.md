@@ -11,7 +11,8 @@ In this model we have predicted the risk of heart disease based on realtime data
   **Dataset:** https://archive.ics.uci.edu/ml/datasets/Heart+Disease
   
  **Data Preprocessing**
- We have preprocessed our dataset using Sk-learn.
+
+We have preprocessed our dataset using Sk-learn.
     
    **sk-learn**
    
