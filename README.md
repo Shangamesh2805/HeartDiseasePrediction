@@ -52,6 +52,7 @@ In this model we have predicted the risk of heart disease based on real dataset 
     A decision tree is a non-parametric supervised learning algorithm, which is utilized for both classification and regression tasks.
     
         ~Training Set Prediction : 1.0     
+        
         ~Testing Set Prediction :  0.7704918032786885 
         
 **Random Forest:**
@@ -78,7 +79,8 @@ In this model we have predicted the risk of heart disease based on real dataset 
  
  
 
-
+**CONCLUDED MODEL FROM PREDICTION**
+      From the prediction results **Logistic Regression** is more suitable for both training and testing data .
 
 
 
@@ -86,7 +88,5 @@ Dataset : https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 
 
-Shrijayan R A 
 
-Shangameshwar K
 
