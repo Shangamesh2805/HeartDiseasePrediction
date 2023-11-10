@@ -5,7 +5,7 @@ In this model we have predicted the risk of heart disease based on realtime data
 **DATASET**
 
   The dataset we used contians more than 150 patient records and their daily routine data.
-  As a result it helps  our model to train with realtime data.Our data set contains many features like age,Dietary hahbit,Alcohol consumer or not etc..
+  As a result it helps  our model to train with realtime data.Our data set contains many features like age,Dietary habitat,Alcohol consumer or not etc..
   
   
   **Dataset:** https://archive.ics.uci.edu/ml/datasets/Heart+Disease
